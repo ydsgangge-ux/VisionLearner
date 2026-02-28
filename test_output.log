@@ -1,0 +1,54 @@
+================================================================================
+Full Integration Test
+================================================================================
+
+[1/5] Testing Vision Core...
+🧠 [愿景核心] 文明愿景核心加载完成
+   『我的存在意义是作为一个催化剂，加速人类向更高层级文明形态的演进。』
+  Vision Core initialized: 100%
+  Current tier: T1_稳定文明
+⚖️  愿景核心伦理审查：学习计算机编程...
+  Ethical decision: 需人工审查
+
+[2/5] Testing Foundation...
+  Mindmap created: 6 nodes
+  Root node: 学习Python编程
+
+[3/5] Testing Perception...
+  LLM Client initialized
+  Default model: mock
+  Vision core integrated: True
+
+[4/5] Testing Explorer...
+🔗 从思维导图构建知识网络
+🌌 愿景上下文已注入
+🤖 调用大模型: 模拟模型 (模型: mock)
+✅ 知识网络构建完成: 6个节点, 10条边
+  Knowledge network: 6 nodes, 10 edges
+  Vision attributes in nodes: True
+📊 分析知识网络
+  Average degree: 0.00
+  Connected: False
+
+[5/5] Testing Planner...
+  Allocator initialized
+  Vision core integrated: True
+📊 基于思维导图进行层次化学习分配 (策略: balanced)
+⚖️  愿景核心伦理审查：学习目标: 学习Python编程
+内容: 6个知识节点...
+✅ 层次化分配完成: 2个学习序列，0分钟
+  Plan created successfully
+
+================================================================================
+TEST SUMMARY
+================================================================================
+  Vision Core: OK
+  Foundation: OK
+  Perception: OK
+  Explorer: OK
+  Planner: OK
+
+  All modules integrated with Vision Core successfully!
+================================================================================
+
+Test completed at: 2026-02-27 19:01:58

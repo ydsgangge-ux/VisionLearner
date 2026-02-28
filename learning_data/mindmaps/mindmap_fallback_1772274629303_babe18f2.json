@@ -1,0 +1,27 @@
+{
+  "id": "mindmap_fallback_1772274629303_babe18f2",
+  "title": "学习目标: 学习汉字“一”...",
+  "description": "这是学习目标'学习汉字“一”'的思维导图",
+  "depth": 0,
+  "node_type": "concept",
+  "importance": 1.0,
+  "difficulty": 0.5,
+  "prerequisite_score": 0.0,
+  "learning_status": "pending",
+  "estimated_time_minutes": 5,
+  "actual_time_minutes": 0,
+  "parent_id": null,
+  "children_ids": [
+    "mindmap_child_0_1772274629303_6baf4077"
+  ],
+  "sibling_ids": [],
+  "knowledge_node_ids": [],
+  "prerequisites": [],
+  "related_nodes": [],
+  "tags": [],
+  "notes": "",
+  "confidence": 0.8,
+  "generated_by": "fallback_generator",
+  "generated_at": "2026-02-28T18:30:29.303669",
+  "generation_prompt": ""
+}

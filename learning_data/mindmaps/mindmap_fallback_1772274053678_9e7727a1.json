@@ -1,0 +1,27 @@
+{
+  "id": "mindmap_fallback_1772274053678_9e7727a1",
+  "title": "学习目标: 学习Python编程...",
+  "description": "这是学习目标'学习Python编程'的思维导图",
+  "depth": 0,
+  "node_type": "concept",
+  "importance": 1.0,
+  "difficulty": 0.5,
+  "prerequisite_score": 0.0,
+  "learning_status": "pending",
+  "estimated_time_minutes": 5,
+  "actual_time_minutes": 0,
+  "parent_id": null,
+  "children_ids": [
+    "mindmap_child_0_1772274053678_eeca6402"
+  ],
+  "sibling_ids": [],
+  "knowledge_node_ids": [],
+  "prerequisites": [],
+  "related_nodes": [],
+  "tags": [],
+  "notes": "",
+  "confidence": 0.8,
+  "generated_by": "fallback_generator",
+  "generated_at": "2026-02-28T18:20:53.678590",
+  "generation_prompt": ""
+}
