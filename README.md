@@ -1,7 +1,7 @@
 # 🌌 自主认知学习系统 —— 带「思想钢印」的终身学习 Agent（豆包 + 讯飞版）
 
 **国内首个把文明愿景核心深度注入的自主学习系统**
-愿景自动评估 + 上下文问答 + 伦理审查 + 思维导图全自动，已全部跑通！
+愿景自动评估 + 上下文问答 + 伦理审查 + 思维导图全自动，已全部跑通！！
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
